@@ -24,12 +24,12 @@
  ## 시각화 결과
 
 ### 1. 지역별 평당분양가격 비교
-![지역별 평당분양가격 비교]<br>
+[지역별 평당분양가격 비교]<br>
 ![2](https://github.com/user-attachments/assets/9a7b03c3-588c-494b-8a67-f08dad0da609)
 
 
 ### 2. 연도별 분양가격 추세
-![연도별 분양가격 추세]<br>
+[연도별 분양가격 추세]<br>
 ![download](https://github.com/user-attachments/assets/c186a4b9-7440-4ff0-8a6e-07d4823da048)
 
 
